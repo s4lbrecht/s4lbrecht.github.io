@@ -1,7 +1,7 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
+title:  "enera"
+subtitle: "Digitale Geschäftsmodelle (AP9)"
+author: "S. Albrecht"
 avatar: "img/authors/wferr.png"
 image: "img/enera_wind.jpg"
 date:   2015-04-25 12:12:12
