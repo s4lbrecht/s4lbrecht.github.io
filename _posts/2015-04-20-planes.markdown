@@ -1,9 +1,9 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Agentenbasiertes Quartiers-Energiemanagement"
+subtitle: "über Ethereum Clients"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/tesla_charging.jpg"
 date:   2015-04-20 12:12:12
 ---
 

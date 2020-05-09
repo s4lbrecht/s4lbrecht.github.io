@@ -1,9 +1,9 @@
 ---
-title:  "Management's IT competence"
-subtitle: "Research study"
+title:  "Managements IT Kompetenz"
+subtitle: "als Resilienzfaktor"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/it_manager.jpg"
+image: "img/it_manager3.jpg"
 date:   2015-04-24 12:12:12
 ---
 

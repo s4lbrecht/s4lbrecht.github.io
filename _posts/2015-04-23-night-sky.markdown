@@ -1,9 +1,9 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Natural Language Processing"
+subtitle: "Einfluss von Social Media Signaling auf Kapitalallokation"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
+image: "img/social_media.jpg"
 date:   2015-04-23 12:12:12
 ---
 
