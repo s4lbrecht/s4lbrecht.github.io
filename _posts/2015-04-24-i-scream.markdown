@@ -1,9 +1,9 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "Management's IT competence"
+subtitle: "Research study"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/it_manager.jpg"
 date:   2015-04-24 12:12:12
 ---
 
