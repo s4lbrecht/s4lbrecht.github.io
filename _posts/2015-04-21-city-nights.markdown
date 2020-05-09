@@ -1,8 +1,8 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Data Science"
+subtitle: "Vorlesung"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/lehre1.jpg"
 image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
