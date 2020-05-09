@@ -3,7 +3,7 @@ title:  "Data Science"
 subtitle: "Vorlesung"
 author: "Wferr"
 avatar: "img/authors/lehre1.jpg"
-image: "img/b.jpg"
+image: "img/lehre1.jpg"
 date:   2015-04-21 12:12:12
 ---
 
