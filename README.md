@@ -1,17 +1,17 @@
-# Card Expansion Effect
+# Jekyll Modern Blog
 
-A morphing card expansion effect enhanced by a low poly background animation, using SVG clipPath and Trianglify.
+A Simple, Clean and responsive modern blog for jekyll.
 
-[Article on Codrops](http://tympanus.net/codrops/?p=24222)
+## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
-[Demo](http://tympanus.net/Development/CardExpansion/)
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
 ## License
 
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
+
 Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
-Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2015](http://www.codrops.com)
-
-
+Changes being that I made it jekyll ready and smushed the CSS together.
