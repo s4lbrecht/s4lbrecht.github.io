@@ -1,10 +1,10 @@
 # site settings
-title: acco{lab}
-subtitle: Gestographie
-email: contact.accolab@gmail.com
-description: Pour un musée participatif de notre culture gestuelle
-baseurl: "gestographie" # the subpath of your site, e.g. /blog
-url: 'https://accolab.github.io' # the base hostname & protocol for your site
+title: Titel oder Name
+subtitle: Untertitel
+email: casdasdasdasd@gmail.com
+description: Beschreibung
+baseurl: "portfolio" # the subpath of your site, e.g. /blog
+url: 'https://s4lbrecht.github.io' # the base hostname & protocol for your site
 author:
 street_address:
 city: Paris
@@ -14,20 +14,20 @@ country: France
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 8
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/accolab
-github_url: https://github.com/ACCOLAB
+facebook_url: 
+github_url: 
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/studio_accolab
+twitter_url: 
 
 # build settings
 markdown: kramdown
