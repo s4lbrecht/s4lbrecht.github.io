@@ -12,11 +12,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 
 
-### 11:56
-[Contribution guidelines for this project](../img/VDE_ETG.png)
 
 
-### 11:58
+
+### 13:05
 
 [![homepage][1]][2]
 
@@ -26,11 +25,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 
 
-### 13:05
 
-![example.](../img/VDE_ETG.png)
+### 13:11
 
-### 13:05
+[![homepage][../img/VDE_ETG.png]][https://www.researchgate.net/publication/332834848_Agent-and_Blockchain-based_Energy_Management_System_for_Multifamily_Housing "Redirect to homepage"]
 
-![example.](../img/d.jpg)
 
