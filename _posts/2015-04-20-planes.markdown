@@ -23,5 +23,5 @@ Format: ![Alt Text](url)
 
 [![homepage][1]][2]
 
-[1]:  http://commonmark.org/help/images/favicon.png
+[1]:  img/VDE_ETG.pdf
 [2]:  http://commonmark.org "Redirect to homepage"
