@@ -13,5 +13,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 ### Full text
 
 \begin{center} <br>
-\includegraphics[width=8in]{"img/VDE_ETG.pdf"} <br>
+\includegraphics[width=8in]{img/VDE_ETG.pdf} <br>
 \end{center}
+
+
+![GitHub Logo](/img/VDE_ETG.pdf)
+Format: ![Alt Text](url)
