@@ -10,41 +10,25 @@ date:   2015-04-20 12:12:12
 ### Abstract
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
 
-### Full text
 
-[![homepage][1]][2]
-
-[1]:  http://commonmark.org/help/images/favicon.png
-[2]:  http://commonmark.org "Redirect to homepage"
-
-
-
-### 11:50
-[Contribution guidelines for this project](img/b.jpg)
-
-### 11:54
-[Contribution guidelines for this project](../img/b.jpg)
 
 ### 11:56
-[Contribution guidelines for this project](../img/b.jpg)
+[Contribution guidelines for this project](../img/VDE_ETG.png)
 
 
 ### 11:58
 
 [![homepage][1]][2]
 
-[1]:  ../img/VDE_ETG.pdf
+[1]:  ../img/VDE_ETG.png
 [2]:  https://www.researchgate.net/publication/332834848_Agent-and_Blockchain-based_Energy_Management_System_for_Multifamily_Housing "Redirect to homepage"
 
 
-### 12:03
 
-![example.](../img/b.jpg)
 
 ### 12:05
 
-![example.](../img/VDE_ETG.pdf)
+![example.](../img/VDE_ETG.png)
 
-### 12:07
++
 
-<a href="s4lbrecht.github.io/img/VDE_ETG.pdf" target="_blank">PDF.</a>
