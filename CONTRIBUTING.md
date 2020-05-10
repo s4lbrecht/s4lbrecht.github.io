@@ -1,15 +1,18 @@
-All contributions, including merge requests, feature requests, ideas, design tweaks, etc. are welcome. 
-I welcome all input, from sharing your own implementations of code to general thoughts and ideas. Just open a new issue!
+# Local installation for contribution
 
-## Feature Requests
+* install [Ruby](https://www.ruby-lang.org/en/downloads/) and [Rubygems](https://rubygems.org/pages/download)
 
-Feature requests are always welcome! If Jekyll can do it and if the theme's design would work well with it, then I would love to add it. Of course, 
-code submission via a merge/pull request is great, but not necessary.
+* clone this repository
 
-## Bug Reports
+* To install the environment, run :
 
-If you encounter any issues with these themes on any devices, please submit a bug report with the device type and a detailed description of what 
-the issue that you're encountering is.
-<br /><br />
+```
+gem install bundler
+bundle install --path vendor/bundle
+```
 
-*Thank you*
+* To test the server, run :
+
+```
+bundle exec jekyll serve
+```
