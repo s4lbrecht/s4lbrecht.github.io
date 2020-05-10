@@ -32,6 +32,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ### 13:19
 
+<a href="https://www.qries.com/">
 <img src="./img/VDE_ETG.png" width="100" height="100">
+
 
 
