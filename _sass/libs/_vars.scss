@@ -45,19 +45,19 @@
 //		accent4:			#e7b788,			// 2. Z. rechts
 //		accent5:			#8ea9e8,			// 3. Z. l.
 //		accent6:			#87c5a4				// 3. Z. r.
-		bg:					#1C1B20, 		// Hintergrund
-		bg-alt:				#EFEFEF,			// Hintergrund
+		bg:					#262933, 		// Hintergrund
+		bg-alt:				#2a2f4a,			// Hintergrund
 		fg:					#ffffff,		// Kommentar
 		fg-bold:			#ffffff,			// Kommentar
-		fg-light:			rgba(244,244,255,0.99),		// opacity?
-		cp-light:			rgba(244,244,255,0.99),		// Kommentar
-		border:				rgba(212,212,255,0.99),		// Kommentar
-		border-bg:			rgba(212,212,255,0.99),	// Kommentar
-		highlight:			#FFB8D1,			// Highlight von Namenskasten oben links
-		accent1:			#77ACA2,			// 1. Zeile links
-		accent2:			#8d82c4,			// 1. Zeile rechts
-		accent3:			#ec8d81,			// 2. Z. links
-		accent4:			#e7b788,			// 2. Z. rechts
-		accent5:			#8ea9e8,			// 3. Z. l.
-		accent6:			#87c5a4				// 3. Z. r.
+		cp-light:			rgba(244,244,255,0.4),		// Kommentar
+		fg-light:			rgba(155,213,226,0.2),
+		border:				rgba(212,212,255,0.1),
+		border-bg:			rgba(212,212,255,0.035),
+		highlight:			#9bf1ff,			// Highlight von Namenskasten oben links
+		accent1:			rgba(209,55,109,0.4),			// 1. Zeile links
+		accent2:			rgba(112,162,136,0.4),			// 1. Zeile rechts
+		accent3:			rgba(185,214,242,0.4),			// 2. Z. links
+		accent4:			rgba(241,247,238,0.4),			// 2. Z. rechts
+		accent5:			#1C1B20,			// 3. Z. l.
+		accent6:			#1C1B20				// 3. Z. r.
 	);
