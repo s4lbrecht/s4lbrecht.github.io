@@ -28,5 +28,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 [Contribution guidelines for this project](img/b.jpg)
 
 ### 11:54
-[Contribution guidelines for this project](img\b.jpg)
+[Contribution guidelines for this project](../img/b.jpg)
+
+### 11:56
+[Contribution guidelines for this project](../img/b.jpg)
 
