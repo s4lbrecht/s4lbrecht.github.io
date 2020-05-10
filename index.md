@@ -4,10 +4,10 @@
 
 layout: home
 title: Home
-landing-title: Google Summer of Code blog
+landing-title: Projektportfolio
 description: null
 image: null
-author: Oriol Abril
+author: Name
 show_tile: false
 order: 0
 
