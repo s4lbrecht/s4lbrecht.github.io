@@ -15,4 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 [![homepage][1]][2]
 
 [1]:  img/VDE_ETG.pdf
-[2]:  http://commonmark.org "Redirect to homepage"
+[2]:  https://www.researchgate.net/publication/332834848_Agent-and_Blockchain-based_Energy_Management_System_for_Multifamily_Housing "Redirect to homepage"
