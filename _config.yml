@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GSoC blog
+title: S_Albrecht
 subtitle:
-author: Oriol Abril
+author: Author Name
 description: >- # this means to ignore newlines until "baseurl:"
-  My blog for the Google Summer of Code (GSoC) experience. I will post regularly about
-  the work performed while contributing to <a href="https://arviz-devs.github.io/arviz/index.html">ArviZ</a>,
-  challenges faced and about contributing to open source software in general.
+  Beschreibung der Seite.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,7 +26,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 10
 
 # social settings
-github_url: https://github.com/OriolAbril
+github_url: https://github.com/sadasdasdasdasd
 gitlab_url:
 linkedin_url:
 
