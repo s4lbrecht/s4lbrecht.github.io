@@ -12,10 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ### Full text
 
-
-![GitHub Logo](/img/VDE_ETG.pdf)
-Format: ![Alt Text](http://commonmark.org)
-
 [![homepage][1]][2]
 
 [1]:  img/VDE_ETG.pdf
