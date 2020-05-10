@@ -27,8 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 
 ### 13:21
-<a href="https://www.qries.com/">
-<img src="../img/VDE_ETG.png" width="100" height="100">
+<a href="https://www.researchgate.net/publication/332834848_Agent-and_Blockchain-based_Energy_Management_System_for_Multifamily_Housing/">
+<img src="../img/VDE_ETG.png" width="500">
 
 
 
