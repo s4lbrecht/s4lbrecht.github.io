@@ -44,3 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 ### 12:05
 
 ![example.](../img/VDE_ETG.pdf)
+
+### 12:07
+
+<a href="s4lbrecht.github.io/img/VDE_ETG.pdf" target="_blank">PDF.</a>
