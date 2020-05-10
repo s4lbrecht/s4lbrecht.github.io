@@ -1,7 +1,7 @@
 ---
 title:  "Agentenbasiertes Quartiers-Energiemanagement"
 subtitle: "über Ethereum Clients"
-author: 
+author: "Fraunhofer ISE & Institut für Energiewirtschaft" 
 avatar:
 image: "img/tesla_charging.jpg"
 date:   2015-04-20 12:12:12
