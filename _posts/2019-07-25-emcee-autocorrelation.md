@@ -7,5 +7,3 @@ date:   2019-07-25 12:07:28 +0200
 image: notebooks/emcee_autocorrelation/emcee_autocorrelation_time_files/emcee_autocorrelation_time_8_0.png
 
 ---
-
-{% include_relative notebooks/emcee_autocorrelation/emcee_autocorrelation_time.md %}
