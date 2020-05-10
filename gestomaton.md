@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Gestomaton
 nav-menu: true
 image: assets/images/gestomaton5.jpg
