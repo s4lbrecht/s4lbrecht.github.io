@@ -8,4 +8,4 @@ image: notebooks/emcee_autocorrelation/emcee_autocorrelation_time_files/emcee_au
 
 ---
 
-{% include_absolute notebooks/emcee_autocorrelation/emcee_autocorrelation_time.md %}
+{% include_relative notebooks/emcee_autocorrelation/emcee_autocorrelation_time.md %}
