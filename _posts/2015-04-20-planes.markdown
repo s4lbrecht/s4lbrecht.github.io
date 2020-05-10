@@ -28,6 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ### 13:11
 
-![homepage][../img/VDE_ETG.png][https://www.researchgate.net/publication/332834848_Agent-and_Blockchain-based_Energy_Management_System_for_Multifamily_Housing "Redirect to homepage"]
+[![homepage]../img/VDE_ETG.png]https://www.researchgate.net/publication/332834848_Agent-and_Blockchain-based_Energy_Management_System_for_Multifamily_Housing "Redirect to homepage"
+
 
 
