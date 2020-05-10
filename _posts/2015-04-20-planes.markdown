@@ -30,5 +30,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ![example.](../img/VDE_ETG.png)
 
-+
-
