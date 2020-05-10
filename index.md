@@ -1,11 +1,14 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: home
-title: Titel Test
-landing-title: 'Willkommen'
+title: Home
+landing-title: Google Summer of Code blog
 description: null
 image: null
-author: null
+author: Oriol Abril
 show_tile: false
----
+order: 0
 
-TExt TEXT TEXT
+---
