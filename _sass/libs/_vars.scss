@@ -30,7 +30,7 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943, 		// Kommentar
+		bg:					#242943, 		// Hintergrund
 		bg-alt:				#2a2f4a,			// Kommentar
 		fg:					#ffffff,		// Kommentar
 		fg-bold:			#ffffff,			// Kommentar
@@ -39,10 +39,10 @@
 		border:				rgba(212,212,255,0.1),		// Kommentar
 		border-bg:			rgba(212,212,255,0.035),	// Kommentar
 		highlight:			#9bf1ff,			// Kommentar
-		accent1:			#6fc3df,			// Kommentar
-		accent2:			#8d82c4,			// Kommentar
-		accent3:			#ec8d81,			// Kommentar
-		accent4:			#e7b788,			// Kommentar
-		accent5:			#8ea9e8,			// Kommentar
-		accent6:			#87c5a4				// Kommentar
+		accent1:			#6fc3df,			// 1. Zeile links
+		accent2:			#8d82c4,			// 1. Zeile rechts
+		accent3:			#ec8d81,			// 2. Z. links
+		accent4:			#e7b788,			// 2. Z. rechts
+		accent5:			#8ea9e8,			// 3. Z. l.
+		accent6:			#87c5a4				// 3. Z. r.
 	);
