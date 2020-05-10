@@ -3,9 +3,13 @@ layout: post
 title:  "Work done during GSoC"
 description: "Submission for GSoC's final evaluation. Summary
 of all the work done during the coding period."
+image: "assets/images/enera_wind.jpg"
 date:   2019-08-21 00:22:28 +0200
 
 ---
+
+
+
 
 To see all the work done during the 2019 GSoC coding period, see this
 [pull request (PR) list](https://github.com/arviz-devs/arviz/pulls?page=1&q=is%3Apr+author%3AOriolAbril+archived%3Afalse+label%3AGSOC&utf8=%E2%9C%93).
