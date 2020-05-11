@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About me
+title: Impressum
 author: Name
 nav-menu: true
 order: 20
