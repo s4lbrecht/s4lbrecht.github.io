@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Natural Language Processing"
-description: "Einfluss von Social Media Signaling auf Kapitalallokation"
+title:  "Social Media Signaling und Kapitalallokation"
+description: "Studie"
 image: "assets/images/social_media.jpg"
 date:   2015-04-23 12:12:12
 ---

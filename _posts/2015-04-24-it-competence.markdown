@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Managements IT Kompetenz"
-description: "als Resilienzfaktor"
+title:  "IT Kompetenz im Management"
+description: "Studie"
 image: "assets/images/it_manager3.jpg"
 date:   2015-04-24 12:12:12
 ---

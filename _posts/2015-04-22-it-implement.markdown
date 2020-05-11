@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "IT Implementierung"
-description: "Erfolgsfaktoren zur Einbindung neuer Technologien"
+title:  "Erfolgsfaktoren zur IT Implementierung"
+description: "Studie"
 image: "assets/images/it_erfolg.jpg"
 date:   2015-04-22 12:12:12
 ---
