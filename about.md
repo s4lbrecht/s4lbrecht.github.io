@@ -7,9 +7,36 @@ order: 20
 
 ---
 
-asdasdasd
+Impressum
+Angaben gemäß § 5 TMG
 
-### Development Experience
+Max Muster 
+Musterweg
+12345 Musterstadt 
+
+Vertreten durch: 
+Max Muster
+
+Kontakt: 
+Telefon: 01234-789456
+Fax: 1234-56789
+E-Mail: max@muster.de
+
+Umsatzsteuer-ID: 
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.
+
+Wirtschafts-ID: 
+Musterwirtschaftsid
+
+Aufsichtsbehörde:
+Musteraufsicht Musterstadt
+
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Max Muster 
+Musterweg
+12345 Musterstadt 
+
+### Haftungsausschluss: 
 
 asdasd
 
