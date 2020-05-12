@@ -7,4 +7,4 @@ order: 20
 
 ---
 
-{% Impressum_muster.md %}
+{% Impressum_muster.html %}
