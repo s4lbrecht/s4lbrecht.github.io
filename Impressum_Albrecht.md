@@ -10,31 +10,17 @@ order: 20
 Impressum
 Angaben gemäß § 5 TMG
 
-Max Muster 
-Musterweg
-12345 Musterstadt 
+Simon Albrecht
+Waldkircher Str. 33
+79106 Freiburg
 
-Vertreten durch: 
-Max Muster
 
 Kontakt: 
-Telefon: 01234-789456
-Fax: 1234-56789
-E-Mail: max@muster.de
+E-Mail: simon.b.albrecht@gmail.com
 
-Umsatzsteuer-ID: 
-Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.
-
-Wirtschafts-ID: 
-Musterwirtschaftsid
-
-Aufsichtsbehörde:
-Musteraufsicht Musterstadt
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Max Muster 
-Musterweg
-12345 Musterstadt 
+Simon Albrecht
 
 ### Haftungsausschluss: 
 
