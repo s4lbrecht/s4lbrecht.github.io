@@ -7,4 +7,4 @@ order: 20
 
 ---
 
-{% Impressum_muster.html %}
+{% include Impressum_muster.html %}
