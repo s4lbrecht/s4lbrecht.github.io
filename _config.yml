@@ -41,6 +41,12 @@ kramdown:
   parse_block_html: true
   syntax_highlighter_opts: {guess_lang: false, default_lang: lexer}
 
+gems:
+  - jekyll-font-awesome-sass
+
+font-awesome:
+  assets: true
+
 # sass:
 #     style: compressed
 # Exclude from processing.
