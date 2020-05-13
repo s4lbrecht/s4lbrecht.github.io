@@ -16,7 +16,7 @@
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" /></li>
+					<li><input type="submit" value="Absenden" /></li>
 				</ul>
 			</form>
 		</section>
@@ -27,33 +27,13 @@
 				</div>
 			</section>
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Téléphone</h3>
-					<span>{{ site.phone }}</span>
+				<div 
+				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				</div>
 			</section>
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Adresse</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
+				<div 
+				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
 				</div>
 			</section>
 		</section>
