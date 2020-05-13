@@ -4,29 +4,26 @@
 		<section>
 			<form action="https://formspree.io/xyynzoze" method="POST">
 				<div class="field half first">
-					<label for="name">Nom</label>
+					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
-					<label for="email">Adresse mail</label>
+					<label for="email">Email</label>
 					<input type="text" name="_replyto" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<label for="message">Nachricht</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<li><input type="submit" value="Send Message" /></li>
 				</ul>
 			</form>
 		</section>
 		<section class="split">
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Adresse Mail</h3>
-					<a href="#">{{ site.email }}</a>
+				<div 					
+					<li><a href="mailto:{{ site.email }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 				</div>
 			</section>
 			<section>
@@ -67,27 +64,7 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<ul class="copyright">
-			
-			<form
-  action="https://formspree.io/xyynzoze"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
-
-			
+			<ul class="copyright">		
 				{% if site.email %}
 				<li><a href="mailto:{{ site.email }}" class="icon alt fa-envelope" target="_blank"><span class="label">Email</span></a></li>
 				{% endif %}
