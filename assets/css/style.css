@@ -2,6 +2,6 @@
 ---
 $fa-font-path: "fonts/font-awesome/";
 @import 'font-awesome';
-
+a { text-decoration: none; }
 
 // (Your custom CSS Here)
