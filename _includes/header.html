@@ -12,6 +12,12 @@ id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if 
 -->
 
 <header
+
+id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
       <img src="https://github.com/s4lbrecht/s4lbrecht.github.io/blob/master/assets/images/logo.png"/>
 
 </header>
