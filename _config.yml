@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Simon Albrecht  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /assets/images/logo.png
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
